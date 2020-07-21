@@ -31,15 +31,20 @@ h4 {
 
 .indifferent {
   background-color: #dddd22;
+  border: 1px solid yellow;
+  box-shadow:  -1px 1px yellow, -2px 2px yellow, -3px 3px yellow, -4px 4px yellow, -5px 5px yellow;
 }
 
 .dubious {
   background-color: #dd4444;
+  border: 1px solid #22aa44;
+  box-shadow:  -1px 1px #22aa44, -2px 2px #22aa44, -3px 3px #22aa44, -4px 4px #22aa44, -5px 5px #22aa44;
 }
 
 .column {
   width: 30%;
   display: inline-block;
+  border: 1px  solid  gray;
 }
 
 .small {
